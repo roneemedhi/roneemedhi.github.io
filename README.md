@@ -1,37 +1,31 @@
-## Welcome to GitHub Pages
+# HI, I’M RONEE
+### And welcome to my personal website!
 
-You can use the [editor on GitHub](https://github.com/roneemedhi/roneemedhi.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+### Portfolio
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+```I am an Indian citizen and speak English, Hindi, and Assamese (native).```
 
-```markdown
-Syntax highlighted code block
+```Since I began my professional journey I’ve been lucky to have had the opportunity to collaborate on some exciting solo and collaborative projects. With work experience as a seasoned Internal Product Manager with hands-on experience in Engineering, I come from a cross-functional background and truly value the multidisciplinary nature of good product quality. Hyper-focused on establishing a highly personalized experience for a user, I believe I can be an asset to the team with the common goal of creating a user journey for everyone.```
 
-# Header 1
-## Header 2
-### Header 3
+---
 
-- Bulleted
-- List
+### Skills
+1. User Experience
+2. Product Vision
+3. Product Management
+4. Start-ups
+5. Mobile Technology
+6. Agile Methodologies
+7. User Stories
+8. Payment Systems
+9. Wireframing
+10. Interaction Design
+11. User Research
+12. Software as a Service (SaaS)
+13. Leadership
+14. Management
+15. Mockups
+16. Mixpanel
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/roneemedhi/roneemedhi.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
