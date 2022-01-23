@@ -29,8 +29,18 @@ Since I began my professional journey I’ve been lucky to have had the opportun
 ---
 
 ### Contact Details
-<form action="https://formspree.io/f/xayvqvlj" method="POST">
-  <label for="email">Your Email</label>
-  <input name="Email" id="email" type="email">
+<form
+  action="https://formspree.io/f/xayvqvlj"
+  method="POST"
+>
+  <label>
+    Your email:
+    <input type="email" name="_replyto">
+  </label>
+  <label>
+    Your message:
+    <textarea name="message"></textarea>
+  </label>
+  <!-- your other form fields go here -->
   <button type="submit">Send</button>
 </form>
