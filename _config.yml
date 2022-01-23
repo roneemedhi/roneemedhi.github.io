@@ -1,1 +1,15 @@
+title: Hi I'am Ronee and this is my Personal Website # your name (or website title) here
+logo: "/profile.png?raw=true" # your photo (or logo) here
+description: > # your text below (remove <br> elements if you don't need line breaks)
+ Product Manager
+  <br><br>
+  <a href="mailto:roneemedhi@gmail.com">roneemedhi@gmail.com</a>
+  <br>
+  <a href="https://www.linkedin.com/in/roneemedhi/">LinkedIn Profile</a>
+  <br>
+  <a href="https://roneemedhi.medium.com/">Medium</a>
+  <br>
+  <a href="https://roneemedhi.wixsite.com/website">Wixsite</a>
+  <br>
+  <a href="https://github.com/roneemedhi/">GitHub</a>
 theme: jekyll-theme-cayman
