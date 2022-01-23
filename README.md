@@ -1,8 +1,8 @@
 ### Portfolio
 
-```I am an Indian citizen and speak English, Hindi, and Assamese (native).```
+I am an Indian citizen and speak English, Hindi, and Assamese (native).
 
-```Since I began my professional journey I’ve been lucky to have had the opportunity to collaborate on some exciting solo and collaborative projects. With work experience as a seasoned Internal Product Manager with hands-on experience in Engineering, I come from a cross-functional background and truly value the multidisciplinary nature of good product quality. Hyper-focused on establishing a highly personalized experience for a user, I believe I can be an asset to the team with the common goal of creating a user journey for everyone.```
+Since I began my professional journey I’ve been lucky to have had the opportunity to collaborate on some exciting solo and collaborative projects. With work experience as a seasoned Internal Product Manager with hands-on experience in Engineering, I come from a cross-functional background and truly value the multidisciplinary nature of good product quality. Hyper-focused on establishing a highly personalized experience for a user, I believe I can be an asset to the team with the common goal of creating a user journey for everyone.
 
 ---
 
