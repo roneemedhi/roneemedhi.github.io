@@ -1,8 +1,3 @@
-# HI, I’M RONEE
-### And welcome to my personal website!
-
-
-
 ### Portfolio
 
 ```I am an Indian citizen and speak English, Hindi, and Assamese (native).```
