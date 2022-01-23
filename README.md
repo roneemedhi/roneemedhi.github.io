@@ -30,7 +30,6 @@ Since I began my professional journey I’ve been lucky to have had the opportun
 
 ### Contact Details
 <form action="https://formspree.io/f/xayvqvlj" method="POST">
-  <label>
   <label for="email">Your Email</label>
   <input name="Email" id="email" type="email">
   <button type="submit">Send</button>
