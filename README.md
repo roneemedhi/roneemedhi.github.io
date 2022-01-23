@@ -30,20 +30,9 @@ Since I began my professional journey I’ve been lucky to have had the opportun
 ---
 
 ### Contact Details
-<!-- modify this form HTML and place wherever you want your form -->
-<form
-  action="https://formspree.io/f/xayvqvlj"
-  method="POST"
->
+<form action="https://formspree.io/f/xayvqvlj" method="POST">
   <label>
-    Your email:
-    <input type="email" name="_replyto">
-  </label>
-  <label>
-    Your message:
-    <textarea name="message"></textarea>
-  </label>
-  <!-- your other form fields go here -->
+  <label for="email">Your Email</label>
+  <input name=="Email" id="emaiol" type="email">
   <button type="submit">Send</button>
 </form>
-
