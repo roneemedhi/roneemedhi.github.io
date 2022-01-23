@@ -1,6 +1,4 @@
-# Hi, I'am Ronee
-
-### Portfolio
+## Portfolio
 
 I am an Indian citizen and speak English, Hindi, and Assamese (native).
 
@@ -8,7 +6,7 @@ Since I began my professional journey I’ve been lucky to have had the opportun
 
 ---
 
-### Skills
+## Skills
 1. User Experience
 2. Product Vision
 3. Product Management
@@ -25,43 +23,3 @@ Since I began my professional journey I’ve been lucky to have had the opportun
 14. Management
 15. Mockups
 16. Mixpanel
-
----
-
-### Contact Details
-<form
-  action="https://formspree.io/f/xayvqvlj"
-  method="POST"
->
-  <label>
-    Your email:
-    <input type="email" name="_replyto">
-  </label>
-  
-  
-  <label>
-    Your message:
-    <textarea name="message"></textarea>
-  </label>
-  
-  
-  <!-- your other form fields go here -->
-  <button type="submit">Send</button>
-  
-</form>
-<form id="fs-frm" name="simple-contact-form" accept-charset="utf-8" action="https://formspree.io/f/xayvqvlj" method="post">
-  <fieldset id="fs-frm-inputs">
-    
-    <label for="full-name">Full Name</label>
-    <input type="text" name="name" id="full-name" placeholder="First and Last Name" required="">
-    
-    <label for="email-address">Email Address</label>
-    <input type="email" name="_replyto" id="email-address" placeholder="email@domain.tld" required="">
-    
-    <label for="message">Message</label>
-    <textarea rows="5" name="message" id="message" placeholder="Enter your message here." required=""></textarea>
-    <input type="hidden" name="_subject" id="email-subject" value="Contact Form Submission">
-    
-  </fieldset>
-  <input type="submit" value="Submit"> 
-</form>
