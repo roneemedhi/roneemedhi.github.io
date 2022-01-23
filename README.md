@@ -1,4 +1,4 @@
-# Hi, I'am Ronee and this is my Personal Website 
+# Hi, I'am Ronee
 
 ### Portfolio
 
