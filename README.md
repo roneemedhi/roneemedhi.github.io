@@ -1,3 +1,6 @@
+# Hi, I'am Ronee 
+## and this is my Personal Website 
+
 ### Portfolio
 
 I am an Indian citizen and speak English, Hindi, and Assamese (native).
