@@ -33,6 +33,6 @@ Since I began my professional journey I’ve been lucky to have had the opportun
 <form action="https://formspree.io/f/xayvqvlj" method="POST">
   <label>
   <label for="email">Your Email</label>
-  <input name=="Email" id="emaiol" type="email">
+  <input name="Email" id="email" type="email">
   <button type="submit">Send</button>
 </form>
