@@ -23,3 +23,4 @@ Since I began my professional journey I’ve been lucky to have had the opportun
 14. Management
 15. Mockups
 16. Mixpanel
+17. Segment
