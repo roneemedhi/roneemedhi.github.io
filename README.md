@@ -22,12 +22,9 @@
 
 
 ## Portfolio
-As a pivotal member of founding teams, I have successfully led the development of multiple foundational products, leveraging my business and strategic acumen to deliver value to a wide spectrum of customers. My expertise extends beyond product creation to establishing strategic partnerships, broadening an organisation’s influence in the industrial sector.
+As a pivotal member of founding teams, I have successfully led the development of multiple foundational products, utilizing my business acumen and strategic insight to deliver value to diverse customer bases. My expertise extends beyond product creation to establishing strategic partnerships, broadening an organisation’s influence in the industrial sector.
 
-With an unwavering commitment to improvements, I am dedicated to helping organizations and teams surpass their potential. Passionate about innovation, storytelling, and customer-centricity, I usually share my insights through articles on product research and problem-solving. 
-
-My values and goals are further exemplified through my mentorship and voluntary contributions to various causes, embodying my commitment to growth and positive impact.
-
+With an unwavering commitment to improvements, mentorship and voluntary contributions to various causes, I am dedicated to helping organizations and teams surpass their potential. Passionate about innovation, storytelling, and customer-centricity, I usually share my insights through articles on product research and problem-solving. 
 
 
 ## Links
