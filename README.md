@@ -29,11 +29,10 @@ With an unwavering commitment to improvements, I am dedicated to helping organiz
 My values and goals are further exemplified through my mentorship and voluntary contributions to various causes, embodying my commitment to growth and positive impact.
 
 
+
 ## Links
-[My Portfolio - on Wix] https://roneemedhi9.wixsite.com/my-portfolio
-
-[My Portfolio - on Linktree] https://linktr.ee/rmedhi9
-
+https://roneemedhi9.wixsite.com/my-portfolio
+https://linktr.ee/rmedhi9
 
 
 <h3 align="left">Connect with me:</h3>
