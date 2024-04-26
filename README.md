@@ -7,16 +7,6 @@
 <p align="left"> <a href="https://twitter.com/medhironee" target="blank"><img src="https://img.shields.io/twitter/follow/medhironee?logo=twitter&style=for-the-badge" alt="medhironee" /></a> </p>
 
 
-- 🌱 I’m currently learning **AI/ML**
-
-- 📝 I sometimes write articles on **[https://medium.com/@roneemedhi]**
-
-- 💬 Ask me about **Product Management**
-
-- 📫 How to reach me **[https://linktr.ee/admin]**
-
-- 📄 Know about my experiences **[https://roneemedhi9.wixsite.com/my-portfolio]**
-
 - ⚡ Fun fact **Explore With Me Deep Dives into Product Management and Beyond!**
 
 
@@ -26,11 +16,6 @@ As a pivotal member of founding teams, I have successfully led the development o
 
 With an unwavering commitment to improvements, mentorship and voluntary contributions to various causes, I am dedicated to helping organizations and teams surpass their potential. Passionate about innovation, storytelling, and customer-centricity, I usually share my insights through articles on product research and problem-solving. 
 
-
-## Links
-- https://roneemedhi9.wixsite.com/my-portfolio
-
-- https://linktr.ee/rmedhi9
 
 
 <h3 align="left">Connect with me:</h3>
