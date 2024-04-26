@@ -31,7 +31,8 @@ My values and goals are further exemplified through my mentorship and voluntary 
 
 ## Links
 [My Portfolio - on Wix] https://roneemedhi9.wixsite.com/my-portfolio
-[My Portfolio - on Linktree] linktr.ee/rmedhi9
+
+[My Portfolio - on Linktree] https://linktr.ee/rmedhi9
 
 
 
