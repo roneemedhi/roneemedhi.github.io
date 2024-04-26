@@ -28,8 +28,9 @@ With an unwavering commitment to improvements, mentorship and voluntary contribu
 
 
 ## Links
-https://roneemedhi9.wixsite.com/my-portfolio
-https://linktr.ee/rmedhi9
+- https://roneemedhi9.wixsite.com/my-portfolio
+
+- https://linktr.ee/rmedhi9
 
 
 <h3 align="left">Connect with me:</h3>
