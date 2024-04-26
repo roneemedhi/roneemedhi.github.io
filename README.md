@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ronee</h1>
-<h3 align="center">an accomplished product management and tech leader from India with 12+ years of experience spanning B2B, B2C and D2C industries with SaaS domains. I have worked across diverse platforms, and excel in creating products that address user needs and foster engagement</h3>
+<h3 align="center">An accomplished product management and tech leader from India with 12+ years of experience spanning B2B, B2C and D2C industries with SaaS domains. I have worked across diverse platforms, and excel in creating products that address user needs and foster engagement</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=roneemedhi&label=Profile%20views&color=0e75b6&style=flat" alt="roneemedhi" /> </p>
 
