@@ -1,13 +1,15 @@
 title: Ronee Medhi # your name (or website title) here
 logo: "/profile.png?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
- Product Manager
+ Product Leader
   <br><br>
-  <a href="mailto:roneemedhi@gmail.com">roneemedhi@gmail.com </a>
+  <a href="https://www.linkedin.com/in/roneemedhi/">LinkedIn</a>
   <br>
-  <a href="https://www.linkedin.com/in/roneemedhi/">LinkedIn Profile</a>
+  <a href="https://roneemedhi.medium.com/">Medium</a>
   <br>
   <a href="https://github.com/roneemedhi/">GitHub</a>
   <br>
-  <a href="https://roneemedhi.medium.com/">Medium</a>
+  <a href="https://twitter.com/medhironee/">Twitter</a>
+  <br>
+  <a href="https://linktr.ee/rmedhi9">Linktree</a>
 theme: jekyll-theme-minimal
