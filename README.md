@@ -15,14 +15,15 @@ As a pivotal member of founding teams, I have successfully led the development o
 
 I am a forward-thinking product leader dedicated to: 
 
-- 🧠 Strategically researching and identifying opportunities to enhance product value based on hypotheses.
-- 💡 Proposing and championing innovative product concepts, driving market disruption and competitive advantage.
-- 🚀 Leading cross-functional teams to swiftly develop and launch cutting-edge products that meet user needs and exceed expectations.
-- 🌱 Continuously learning and evolving, embracing emerging technologies and methodologies to stay ahead in the rapidly evolving digital landscape.
+ 🧠 Strategically researching and identifying opportunities to enhance product value based on hypotheses.
+ 💡 Proposing and championing innovative product concepts, driving market disruption and competitive advantage.
+ 🚀 Leading cross-functional teams to swiftly develop and launch cutting-edge products that meet user needs and exceed expectations.
+ 🌱 Continuously learning and evolving, embracing emerging technologies and methodologies to stay ahead in the rapidly evolving digital landscape.
 
 With an unwavering commitment to improvements, mentorship and voluntary contributions to various causes, I am dedicated to helping organizations and teams surpass their potential. Passionate about innovation, storytelling, and customer-centricity, I usually share my insights through articles on product research and problem-solving. 
 
 <p align="left"> <a href="https://twitter.com/medhironee" target="blank"><img src="https://img.shields.io/twitter/follow/medhironee?logo=twitter&style=for-the-badge" alt="medhironee" /></a> </p>
+
 
 <p align="left">
 <a href="https://linkedin.com/in/roneemedhi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="roneemedhi" height="30" width="40" /></a>
