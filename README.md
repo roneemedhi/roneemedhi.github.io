@@ -26,7 +26,7 @@ I am a forward-thinking product leader dedicated to:
 With an unwavering commitment to improvements, mentorship and voluntary contributions to various causes, I am dedicated to helping organizations and teams surpass their potential. Passionate about innovation, storytelling, and customer-centricity, I usually share my insights through articles on product research and problem-solving. 
 
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">📫 You can follow me or, give some ♥ @:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/roneemedhi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="roneemedhi" height="30" width="40" /></a>
 <a href="https://medium.com/@roneemedhi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="roneemedhi" height="30" width="40" /></a>
@@ -42,4 +42,3 @@ With an unwavering commitment to improvements, mentorship and voluntary contribu
 roneemedhi/roneemedhi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes!
 --->
-
