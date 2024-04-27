@@ -7,8 +7,6 @@
 
 <p align="left"> <a href="https://github.com/roneemedhi/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=roneemedhi" alt="roneemedhi" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/medhironee" target="blank"><img src="https://img.shields.io/twitter/follow/medhironee?logo=twitter&style=for-the-badge" alt="medhironee" /></a> </p>
-
 
 - ⚡ Fun fact **Explore With Me Deep Dives into Product Management and Beyond!**
 
@@ -31,6 +29,8 @@ With an unwavering commitment to improvements, mentorship and voluntary contribu
 <a href="https://linkedin.com/in/roneemedhi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="roneemedhi" height="30" width="40" /></a>
 <a href="https://medium.com/@roneemedhi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="roneemedhi" height="30" width="40" /></a>
 <a href="https://twitter.com/medhironee" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="medhironee" height="30" width="40" /></a>
+<p align="left"> <a href="https://twitter.com/medhironee" target="blank"><img src="https://img.shields.io/twitter/follow/medhironee?logo=twitter&style=for-the-badge" alt="medhironee" /></a> </p>
+
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
