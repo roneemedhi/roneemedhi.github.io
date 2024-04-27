@@ -13,14 +13,15 @@
 ## Portfolio:
 As a pivotal member of founding teams, I have successfully led the development of multiple foundational products, utilizing my business acumen and strategic insight to deliver value to diverse customer bases. My expertise extends beyond product creation to establishing strategic partnerships, broadening an organisation’s influence in the industrial sector.
 
-I am a forward-thinking product leader dedicated to:
-🧠 Strategically researching and identifying opportunities to enhance product value based on hypotheses.
+I am a forward-thinking product leader dedicated to: 
 
-💡 Proposing and championing innovative product concepts, driving market disruption and competitive advantage.
+- 🧠 Strategically researching and identifying opportunities to enhance product value based on hypotheses.
 
-🚀 Leading cross-functional teams to swiftly develop and launch cutting-edge products that meet user needs and exceed expectations.
+- 💡 Proposing and championing innovative product concepts, driving market disruption and competitive advantage.
 
-🌱 Continuously learning and evolving, embracing emerging technologies and methodologies to stay ahead in the rapidly evolving digital landscape.
+- 🚀 Leading cross-functional teams to swiftly develop and launch cutting-edge products that meet user needs and exceed expectations.
+
+- 🌱 Continuously learning and evolving, embracing emerging technologies and methodologies to stay ahead in the rapidly evolving digital landscape.
 
 With an unwavering commitment to improvements, mentorship and voluntary contributions to various causes, I am dedicated to helping organizations and teams surpass their potential. Passionate about innovation, storytelling, and customer-centricity, I usually share my insights through articles on product research and problem-solving. 
 
