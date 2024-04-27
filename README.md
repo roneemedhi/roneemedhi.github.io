@@ -6,7 +6,7 @@
 <p align="left"> <a href="https://github.com/roneemedhi/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=roneemedhi" alt="roneemedhi" /></a> </p>
 
 
-- ⚡ Fun fact **Explore With Me Deep Dives into Product Management and Beyond!**
+- ⚡ **Explore With Me Deep Dives into Product Management and Beyond!**
 
 
 
