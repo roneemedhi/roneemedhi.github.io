@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ronee</h1>
 
-[![Header](https://github.com/roneemedhi/roneemedhi/blob/main/readme_header.gif "Header")](http://roneemedhi.wixsite.com/website)
+                                        [![Header](https://github.com/roneemedhi/roneemedhi/blob/main/readme_header.gif "Header")](http://roneemedhi.wixsite.com/website)
 
 <h3 align="center">An accomplished product management and tech leader from India with 12+ years of experience spanning B2B, B2C and D2C industries with SaaS domains. I have worked across diverse platforms, and excel in creating products that address user needs and foster engagement</h3>
 
