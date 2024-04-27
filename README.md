@@ -16,11 +16,8 @@ As a pivotal member of founding teams, I have successfully led the development o
 I am a forward-thinking product leader dedicated to: 
 
 - 🧠 Strategically researching and identifying opportunities to enhance product value based on hypotheses.
-
 - 💡 Proposing and championing innovative product concepts, driving market disruption and competitive advantage.
-
 - 🚀 Leading cross-functional teams to swiftly develop and launch cutting-edge products that meet user needs and exceed expectations.
-
 - 🌱 Continuously learning and evolving, embracing emerging technologies and methodologies to stay ahead in the rapidly evolving digital landscape.
 
 With an unwavering commitment to improvements, mentorship and voluntary contributions to various causes, I am dedicated to helping organizations and teams surpass their potential. Passionate about innovation, storytelling, and customer-centricity, I usually share my insights through articles on product research and problem-solving. 
