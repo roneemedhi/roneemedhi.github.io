@@ -10,7 +10,7 @@
 
 
 
-## Portfolio
+## Portfolio:
 As a pivotal member of founding teams, I have successfully led the development of multiple foundational products, utilizing my business acumen and strategic insight to deliver value to diverse customer bases. My expertise extends beyond product creation to establishing strategic partnerships, broadening an organisation’s influence in the industrial sector.
 
 I am a forward-thinking product leader dedicated to:
