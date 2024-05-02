@@ -31,48 +31,32 @@ With an unwavering commitment to improvements, mentorship and voluntary contribu
 The list of languages and tools that have utilized in the projects I've been involved with (but not limited to):
 
 <p align="left"> 
-
-##### Languages:
 <a href="https://java.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> </a> 
 <a href="https://javascript.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/izumin5210/emojipack-for-devicon/master/png/javascript.png" alt="javascript" width="40" height="40"/> </a> 
 <a href="https://kotlinlang.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> 
 <a href="https://swift.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/swift/swift-original.svg" alt="swift" width="40" height="40"/> </a> 
-
-##### Frameworks and Libraries:
 <a href="https://react.dev/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/izumin5210/emojipack-for-devicon/master/png/react.png" alt="react" width="40" height="40"/> </a> 
 <a href="https://nodejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> 
-
-##### Development Platform:
 <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> 
 <a href="https://azure.microsoft.com/en-gb/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/azure/azure-original.svg" alt="azure" width="40" height="40"/> </a> 
 <a href="https://github.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/izumin5210/emojipack-for-devicon/master/png/github.png" alt="github" width="40" height="40"/> </a> 
 <a href="https://bitbucket.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/izumin5210/emojipack-for-devicon/master/png/bitbucket.png" alt="bitbucket" width="40" height="40"/> </a> 
 <a href="https://www.netlify.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/netlify/netlify-original.svg" alt="netlify" width="40" height="40"/> </a> 
 <a href="https://jenkins.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> 
-
-##### Databases:
 <a href="https://postgresql.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> 
 <a href="https://mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
 <a href="https://sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> 
-
-##### Cloud Services and Infrastructure:
 <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> 
 <a href="https://nginx.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> 
-
-##### Analytics and Monitoring:
 <a href="https://analytics.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="analytics" width="40" height="40"/> </a> 
 <a href="https://mixpanel.com/" target="_blank" rel="noreferrer"> <img src="https://seeklogo.com/images/M/mixpanel-logo-A209D265A2-seeklogo.com.png" alt="mixpanel" width="40" height="40"/> </a> 
 <a href="https://amplitude.com/" target="_blank" rel="noreferrer"> <img src="https://seeklogo.com/images/A/amplitude-logo-67DFD43C34-seeklogo.com.png" alt="amplitude" width="40" height="40"/> </a> 
 <a href="https://www.hotjar.com/" target="_blank" rel="noreferrer"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSlFe9zXk28CbevoyLTVpEyeY-Mq2X0zzh2pA&s" alt="hotjar" width="40" height="40"/> </a> 
 <a href="https://sentry.io/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/sentry/sentry-original.svg" alt="sentry" width="40" height="40"/> </a> 
-
-##### Product Design Tools:
 <a href="https://figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> 
 <a href="https://sketch.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sketchapp/sketchapp-icon.svg" alt="sketch" width="40" height="40"/> </a> 
 <a href="https://invisionapp.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/invisionapp/invisionapp-icon.svg" alt="invision" width="40" height="40"/> </a> 
 <a href="https://adobe.com/in/products/illustrator.html/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> 
-
-##### Other Languages, Code, and Software:
 <a href="https://atlassian.com/software/jira" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/jira/jira-original.svg" alt="jira" width="40" height="40"/> </a>
 <a href="https://postman.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> 
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
@@ -81,11 +65,8 @@ The list of languages and tools that have utilized in the projects I've been inv
 <a href="https://sublimetext.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/en/d/d2/Sublime_Text_3_logo.png" alt="sublimetext" width="40" height="40"/> </a>
 <a href="https://json.org/json-en.html" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
 <a href="https://selenium.dev/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> 
-
-##### RESTful API Development Tools:
 <a href="https://postman.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/postman/postman-original.svg" alt="postman" width="40" height="40"/> </a>
 <a href="https://swagger.io/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/swagger/swagger-original.svg" alt="swagger" width="40" height="40"/> </a>
-
 </p>
 
 <!---
