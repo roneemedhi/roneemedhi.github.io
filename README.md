@@ -44,7 +44,6 @@ The list of languages and tools that have utilized in the projects I've been inv
 <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> 
 <a href="https://azure.microsoft.com/en-gb/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/azure/azure-original.svg" alt="azure" width="40" height="40"/> </a> 
 <a href="https://github.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/izumin5210/emojipack-for-devicon/master/png/github.png" alt="github" width="40" height="40"/> </a> 
-<a href="https://about.gitlab.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/izumin5210/emojipack-for-devicon/master/png/gitlab" alt="gitlab" width="40" height="40"/> </a> 
 <a href="https://bitbucket.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/izumin5210/emojipack-for-devicon/master/png/bitbucket.png" alt="bitbucket" width="40" height="40"/> </a> 
 <a href="https://www.netlify.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/netlify/netlify-original.svg" alt="netlify" width="40" height="40"/> </a> 
 <a href="https://jenkins.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> 
@@ -77,7 +76,7 @@ The list of languages and tools that have utilized in the projects I've been inv
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
 <a href="https://developer.android.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> 
 <a href="https://developer.apple.com/xcode/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/xcode/xcode-original.svg" alt="xcode" width="40" height="40"/> </a>
-<a href="https://sublimetext.com/" target="_blank" rel="noreferrer"> <img src="https://www.sublimetext.com/images/sublime_text.png" alt="sublimetext" width="40" height="40"/> </a>
+<a href="https://sublimetext.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/en/d/d2/Sublime_Text_3_logo.png" alt="sublimetext" width="40" height="40"/> </a>
 <a href="https://json.org/json-en.html" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
 <a href="https://selenium.dev/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> 
 
