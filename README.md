@@ -28,7 +28,7 @@ With an unwavering commitment to improvements, mentorship and voluntary contribu
 </p>
 
 #### Languages and Tools:
-The list of languages and tools that have utilized in the projects I've been involved with development team across various companies (but not limited to):
+The list of languages and tools that have utilized in the projects I've been involved with (but not limited to):
 
 <p align="left"> 
 
