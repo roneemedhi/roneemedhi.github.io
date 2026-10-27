@@ -2,10 +2,6 @@
 
 <h3 align="center">An accomplished product management and tech leader from India with 12+ years of experience spanning B2B, B2C and D2C industries with SaaS domains. I have worked across diverse platforms, and excel in creating products that address user needs and foster engagement</h3>
 
-
-<p align="left"> <a href="https://github.com/roneemedhi/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=roneemedhi" alt="roneemedhi" /></a> </p>
-
-
 ⚡ **Explore With Me Deep Dives into Product Management and Beyond!**
 
 
